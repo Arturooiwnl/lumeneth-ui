@@ -63,7 +63,7 @@ export default function Components() {
                     </div>
 
                     <a
-                        href="/"
+                        href="https://github.com/Arturooiwnl/lumeneth-ui/blob/main/CONTRIBUTING.md"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center justify-center h-12 md:h-full w-full p-2 text-sm font-medium text-center rounded-2xl border border-border border-dashed bg-card/50 backdrop-blur-3xl hover:bg- z-10 group"
