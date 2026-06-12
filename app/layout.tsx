@@ -18,18 +18,18 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Lumeneth | UI components for your next project",
   description: "Lumeneth, components for your next project. Components, blocks, templates.",
-  keywords: ["Desarrollador Web", "Frontend", "Portafolio", "Arturo Perotto", "Arturo Benicio Perotto", "Desarrollador Frontend"],
+  keywords: ["Lumeneth", "UI components", "Frontend", "React", "Motion", "Open Source", "Templates", "UI/UX"],
   creator: "Arturo Perotto",
   publisher: "Arturo Perotto",
   applicationName: "Lumeneth",
   openGraph: {
     title: "Lumeneth | UI components for your next project",
     description: "Lumeneth, components for your next project. Components, blocks, templates.",
-    url: "https://lumene.vercel.app/",
+    url: "https://lumeneth-ui.vercel.app/",
     siteName: "Lumeneth",
     images: [
       {
-        url: "https://arturoperotto.vercel.app/og/bg-og.jpg",
+        url: "https://lumeneth-ui.vercel.app/og/og.png",
         alt: "Lumeneth | UI components for your next project",
       },
     ],
@@ -40,10 +40,10 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Lumeneth | UI components for your next project",
     description: "Lumeneth, components for your next project. Components, blocks, templates.",
-    site: "@Lumeneth",
+    site: "@ArturoPerotto",
     images: [
       {
-        url: "https://arturoperotto.vercel.app/og/bg-og.jpg",
+        url: "https://lumeneth-ui.vercel.app/og/og.png",
         alt: "Lumeneth | UI components for your next project",
       },
     ],
